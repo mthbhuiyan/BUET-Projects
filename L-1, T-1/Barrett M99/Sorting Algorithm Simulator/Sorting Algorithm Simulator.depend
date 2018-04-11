@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1465335494 source:f:\tuhin\programming\igraphics\new folder\sorting algorithm simulator\imain.cpp
+	"iGraphics.h"
+
+1462108168 f:\tuhin\programming\igraphics\new folder\sorting algorithm simulator\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1466429220 source:d:\tuhin\barrett m99\sorting algorithm simulator\imain.cpp
+	"iGraphics.h"
+
+1465624462 d:\tuhin\barrett m99\sorting algorithm simulator\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<unistd.h>
+
+1476981617 source:d:\tuhin\all\barrett m99\sorting algorithm simulator\imain.cpp
+	"iGraphics.h"
+
+1465624462 d:\tuhin\all\barrett m99\sorting algorithm simulator\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<unistd.h>
+

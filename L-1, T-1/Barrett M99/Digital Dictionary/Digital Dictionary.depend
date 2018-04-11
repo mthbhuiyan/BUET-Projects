@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1463763156 source:d:\tuhin\programming\igraphics\digital dictionary\imain.cpp
+	"iGraphics.h"
+
+1462108168 d:\tuhin\programming\igraphics\digital dictionary\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
